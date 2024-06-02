@@ -21,7 +21,7 @@ output:
 
 # **Welcome to the world of multilevel models**
 
-On this website you will find all the materials for the Multilevel Modelling course of the SGSSS Summer School 2023.
+On this website you will find all the materials for the Multilevel Modelling course of the SGSSS Summer School 2024.
 
 This six-hour workshop will give you an introduction to Multilevel Modelling through a mixture of traditional lectures and hands-on sessions, where we put the concepts into practice.
 

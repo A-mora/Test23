@@ -1,7 +1,7 @@
 ---
 title: "Intro to MLM: Practical 3"
 author: Ana Morales-Gómez and Patricio Troncoso 
-date: "June 2023"
+date: "June 2024"
 output: 
   html_document:
     code_download: yes
@@ -72,6 +72,9 @@ library(broom.mixed)
 ## 1.3. Read in data 
 
 You can download the data from  the [**UKDS website**](https://beta.ukdataservice.ac.uk/datacatalogue/studies/study?id=6765). There are four files in different formats. We will be using the Stata dataset named: "hse_data_for_workshop.dta".
+
+For this session, you can also download the file from the link below, but this link will stop working by the end of the session, so make sure to register and download the data from the UKDS if you want to continue working with this dataset.
+
 
 To read this dataset into R, we need to use the package `haven`:
 

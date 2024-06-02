@@ -1,5 +1,5 @@
 ---
-title: "MLM Summer School 2023"
+title: "MLM Summer School 2024"
 output: 
   html_document:
     theme: cosmo
